@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dendsort",
+    "oncran": true
+  },
+  {
+    "package": "edlibR",
+    "oncran": true
+  },
+  {
+    "package": "gapmap",
+    "oncran": true
+  },
+  {
+    "package": "RMTstat",
+    "oncran": true
+  }
+]
