@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dendsort"]
-	path = dendsort
-	url = https://github.com/evanbiederstedt/dendsort
-	shallow = true
-	registered = true
 [submodule "edlibR"]
 	path = edlibR
 	url = https://github.com/evanbiederstedt/edlibr

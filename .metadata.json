@@ -1,9 +1,5 @@
 [
   {
-    "package": "dendsort",
-    "oncran": true
-  },
-  {
     "package": "edlibR",
     "oncran": true
   },
