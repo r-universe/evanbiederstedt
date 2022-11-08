@@ -23,3 +23,8 @@
 	url = https://github.com/evanbiederstedt/rmtstat
 	shallow = true
 	registered = true
+[submodule "Rook"]
+	path = Rook
+	url = https://github.com/evanbiederstedt/rook
+	shallow = true
+	registered = true

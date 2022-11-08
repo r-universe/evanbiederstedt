@@ -14,5 +14,9 @@
   {
     "package": "RMTstat",
     "oncran": true
+  },
+  {
+    "package": "Rook",
+    "oncran": true
   }
 ]
