@@ -1,14 +1,10 @@
 [
   {
-    "package": "dendsort",
-    "oncran": true
-  },
-  {
     "package": "edlibR",
     "oncran": true
   },
   {
-    "package": "gapmap",
+    "package": "Rook",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "Rook",
+    "package": "dendsort",
+    "oncran": true
+  },
+  {
+    "package": "gapmap",
     "oncran": true
   }
 ]
