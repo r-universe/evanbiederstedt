@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RMTstat"]
+	path = RMTstat
+	url = https://github.com/evanbiederstedt/rmtstat
+[submodule "Rook"]
+	path = Rook
+	url = https://github.com/evanbiederstedt/rook
 [submodule "dendsort"]
 	path = dendsort
 	url = https://github.com/evanbiederstedt/dendsort
@@ -11,9 +17,3 @@
 [submodule "gapmap"]
 	path = gapmap
 	url = https://github.com/evanbiederstedt/gapmap
-[submodule "RMTstat"]
-	path = RMTstat
-	url = https://github.com/evanbiederstedt/rmtstat
-[submodule "Rook"]
-	path = Rook
-	url = https://github.com/evanbiederstedt/rook
